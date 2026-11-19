@@ -3,7 +3,9 @@ body {
     text-align: center;
     font-family: Arial, sans-serif;
 }
-
+a {
+    text-decoration: none;
+}
 h1 {
     color: #333333;
 }
@@ -17,6 +19,13 @@ h1 {
 }
 .instagram {
     background-color: #E1306C;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    display: inline-block;
+}
+.linkedin {
+    background-color: #0A66C2;
     color: white;
     padding: 12px 20px;
     border-radius: 8px;
